@@ -69,6 +69,6 @@
 
 <h3 align="left">Support:</h3>
 <p> 💗 If you like my work, you can support me here:</p>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/0ggp4r1s"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/0gpp4r1s" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/0gpp4r1s"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/0gpp4r1s" /></a></p><br><br>
 
 ###

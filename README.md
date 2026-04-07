@@ -58,9 +58,15 @@
 
 <h2 align="left">🧪 Practical Experience</h2>
 
-###
+### 
 
-<p align="left">- Performed OSINT investigations using email and username tracking  <br>- Configured networks in Packet Tracer (IPv4, IPv6, routing)  <br>- Troubleshooting real-world environments as L2 support</p>
+<p align="left">
+- Building and breaking things (Telegram bots, monitoring scripts, OSINT workflows)<br>
+- OSINT investigations using emails, phone numbers and usernames (real cases, not just tools)<br>
+- Analyzing system and network behavior (Wireshark – learning by actually digging traffic)<br>
+- Network configuration and testing in Packet Tracer (IPv4/IPv6, routing)<br>
+- Troubleshooting real environments as L2 support (logs, users, weird issues everywhere)
+</p>
 
 ###
 
